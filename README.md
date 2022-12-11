@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wirapratamaz" alt="wirapratamaz" /></a> </p>
 
-- 🌱 I’m currently learning **Node,js, Adonis.js, Express.Js, PHP, Mysql**
+- 🌱 I’m currently learning Backend Role with **Node,js, Adonis.js, Express.Js, PHP, Mysql**
 
 - 💬 Ask me about **Node,js, Express.js**
 
