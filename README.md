@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Backend Role with **Node,js, Adonis.js, Express.Js, PHP, Mysql**
 
-- 💬 Ask me about **Node,js, Express.js**
+- 💬 Ask me about **Node,js, Express.js, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
