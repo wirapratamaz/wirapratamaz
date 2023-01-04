@@ -2,8 +2,6 @@
 <h3 align="center">Hello, I'm a undergraduate from Universitas Pendidikan Ganesha who has a dream to become a Software Engineer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wirapratamaz" alt="wirapratamaz" /></a> </p>
-
 - 🌱 I’m currently learning Backend Role with **Node,js, Adonis.js, Express.Js, PHP, Mysql**
 
 - 💬 Ask me about **Node,js, Express.js, Django**
