@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wirapratamaz&show_icons=true&locale=en" alt="wirapratamaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wirapratamaz&" alt="wirapratamaz" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wirapratamaz&layout=compact&theme=omni&count_private=true)](https://github.com/wirapratamaz/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wirapratamaz&show_icons=true&count_private=true&theme=omni)
