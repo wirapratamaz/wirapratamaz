@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Backend Role with **Node,js, Express.Js, Django, PHP, Golag, Mysql, Mongodb**
 
-- 💬 Ask me about **Node,js**, **Golang** Framework **Adonis.js, Express.js, Django**
+- 💬 Ask me about **Node,js**, **Golang** & Framework **Adonis.js, Express.js, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
