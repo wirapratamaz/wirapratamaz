@@ -2,7 +2,7 @@
 <h3 align="center">I'm a undergraduate from Universitas Pendidikan Ganesha who has a dream to become a Software Engineer</h3>
 
 
-- 🌱 I’m currently learning Backend Role with **Node,js, Express.Js, Django, PHP, Golag, Mysql, Mongodb**
+- 🌱 I’m currently learning Backend Role with **Node,js, Express.Js, Django, PHP, Golang, Mysql, Mongodb**
 
 - 💬 Ask me about **Node,js**, **Golang** & Framework **Adonis.js, Express.js, Django**
 
