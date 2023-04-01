@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wirapratamaz" alt="wirapratamaz" /></a> </p>
-
 - 🌱 I’m currently learning **Node,js, Adonis.js, Express.Js, PHP, Mysql**
 
 - 👨‍💻 All of my projects are available at https://bit.ly/PortofolioBackend
