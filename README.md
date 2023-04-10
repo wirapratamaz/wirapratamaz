@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I Putu Wira Pratama Putra</h1>
-<h3 align="center">Hello, I'm a undergraduate from Universitas Pendidikan Ganesha who has a dream to become a Software Engineer</h3>
+<h3 align="center">I'm a undergraduate from Universitas Pendidikan Ganesha who has a dream to become a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
