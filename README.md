@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-- 🌱 I’m currently learning **Node,js, Express.Js, Golang, Laravel, Mysql, Postgress, Mongodb**
-
-- 👨‍💻 All of my projects are available at https://bit.ly/PortofolioBackend
+- 🌱 I’m currently learning **Node,js, Express.Js, Golang, Mysql, Postgress, Mongodb**
 
 - 💬 Ask me about **Node,js, Express.js**
 
