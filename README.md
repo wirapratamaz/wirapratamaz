@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-- 🌱 I’m currently learning **Node,js, Express.Js, Golang, Mysql, Postgress, Mongodb**
+- 🌱 I’m currently learning **Node,js, TypeScript, Golang, Mysql, Postgress, Supabase**
 
-- 💬 Ask me about **Node,js, Express.js**
+- 💬 Ask me about **Web3 and Blockchain Ecosystem**
 
-- 📫 How to reach me **wirabagus185@gmail.com**
+- 📫 How to reach me **wirabagus185@gmail.com** anda telegram "@wirapratamaz"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
