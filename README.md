@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web3 and Blockchain Ecosystem**
 
-- 📫 How to reach me **wirabagus185@gmail.com** anda telegram "@wirapratamaz"
+- 📫 How to reach me **wirabagus185@gmail.com** anda telegram https://t.me/Wirapratamaz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
