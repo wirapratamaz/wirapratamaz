@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-- 🌱 I’m currently learning **Node,js, TypeScript, Golang, Mysql, Postgress, Supabase**
+- 🌱 I’m currently learning **Node,js, TypeScript, Golang, Next, React, Postgress, Supabase**
 
 - 💬 Ask me about **Web3 and Blockchain Ecosystem**
 
