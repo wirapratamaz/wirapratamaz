@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node,js, TypeScript, Golang, Next, React, Postgress, Supabase**
 
-- 💬 Ask me about **Web3 and Blockchain Ecosystem**
+- 💬 Ask me about **Web3 and AI Ecosystem**
 
 - 📫 How to reach me **wirabagus185@gmail.com** anda telegram https://t.me/Wirapratamaz
 
