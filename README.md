@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web3 and AI Ecosystem**
 
-- 📫 How to reach me **wirabagus185@gmail.com** anda telegram https://t.me/Wirapratamaz
+- 📫 How to reach me **wirapratamaputra185@gmail.com** anda telegram https://t.me/Wirapratamaz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
