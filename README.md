@@ -57,7 +57,7 @@
   <li>
     <a href="https://github.com/wirapratamaz/IC-NFID" target="_blank">IC-NFID</a>
     <ul>
-      <li>Contributed to <a href="https://github.com/internet-identity-labs/nfid)" target="_blank">NFID</a>, a system used for user authentication within the ICP ecosystem.</li>
+      <li>Contributed to <a href="https://github.com/internet-identity-labs/nfid" target="_blank">NFID</a>, a system used for user authentication within the ICP ecosystem.</li>
     </ul>
   </li>
   <li>
