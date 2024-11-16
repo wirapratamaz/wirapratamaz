@@ -18,11 +18,26 @@
 </p>
 <ul>
   <li>
-    <a href="https://github.com/bridge-23/Bridge23app.0.1.0-alpha" target="_blank">Bridge23 MVP Alpha</a>
+  <a href="https://github.com/bridge-23/Bridge23app.0.1.0-alpha" target="_blank">Bridge23</a>
+  <ul>
+    <li>Originally launched as a revolutionary blockchain-powered personal expense tracker.</li>
+    <li>Received grants from <a href="https://forum.dfinity.org/t/bridge23-app-showcase/33926" target="_blank">Dfinity</a>.</li>
+    <li>Built during <a href="https://backdropbuild.com/builds/bridge-23" target="_blank">BackdropBuild</a> events launching their crazy idea in 4 weeks.</li>
+    <li>
+      <strong>2024 Update:</strong> Bridge23 has evolved into an AI Agent platform that helps businesses find their ideal customers using models trained on first-party data.
+      <ul>
+        <li>Participated in the <a href="https://build.bewater.xyz/en/campaigns/dK6G-ICP-x-ABCDE-x-BeWater-Accelerator/projects/912" target="_blank">ICP x ABCDE x BeWater Accelerator</a>.</li>
+        <li>Published on the <a href="https://magicsquare.io/store/app/bridge23" target="_blank">Magic Store for AI Software</a>.</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+  <li>
+    <a href="https://devfolio.co/projects/gate-8c67" target="_blank">Gate23</a>
     <ul>
-      <li>Bridge23's first MVP alpha is a revolutionary blockchain-powered personal expense tracker.</li>
-      <li>Received grants from <a href="https://forum.dfinity.org/t/bridge23-app-showcase/33926" target="_blank">Dfinity</a>.</li>
-      <li>Built during <a href="https://backdropbuild.com/builds/bridge-23" target="_blank">BackdropBuild</a> events.</li>
+      <li>Our new Point of Sale Dapp removes the extra step of scanning your receipts. It automatically uploads detailed line item purchase information directly to users' Bridge23 accounts so they can organize and sell their data more efficiently.</li>
+      <li>Built at <strong><a href="https://devfolio.co/projects/gate-8c67" target="_blank">ETHSeoul 2024</a></strong> during the hackathon for Extending Ethereum with ICP track (using threshold ECDSA).</li>
+      <li>Contributed to Juno, NFID, and Base Chain for Chain Fusion and published a detailed showcase in <a href="https://forum.dfinity.org/t/gate23-showcase-by-bridge23-team/33872" target="_blank">Forum Dfinity</a>.</li>
     </ul>
   </li>
   <li>
