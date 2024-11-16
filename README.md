@@ -12,6 +12,63 @@
 
 - 📫 How to reach me **wirapratamaputra185@gmail.com** and Telegram: <a href="https://t.me/Wirapratamaz" target="_blank">t.me/Wirapratamaz</a>
 
+<h3>Recent Experiments / Public Goods Projects</h3>
+<p>
+  I enjoy experimenting with innovative MVP ideas, participating in hackathons, and contributing to public goods projects. Below are some of my key projects:
+</p>
+<ul>
+  <li>
+    <a href="https://github.com/bridge-23/Bridge23app.0.1.0-alpha" target="_blank">Bridge23 MVP Alpha</a>
+    <ul>
+      <li>Bridge23's first MVP alpha is a revolutionary blockchain-powered personal expense tracker.</li>
+      <li>Received grants from <a href="https://forum.dfinity.org/t/bridge23-app-showcase/33926" target="_blank">Dfinity</a>.</li>
+      <li>Built during <a href="https://backdropbuild.com/builds/bridge-23" target="_blank">BackdropBuild</a> events.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/bridge-23/Waitlist-Airdrop" target="_blank">Waitlist-Airdrop Template for ICP Project</a>
+    <ul>
+      <li>A template for upcoming airdrop websites with real-time dashboards and Web3 wallet integration.</li>
+      <li>Supports NFID auth, Plug Wallet, Twitter APIv2 for points, and Supabase DB.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/galaxydo" target="_blank">GalaxyDAO</a> | <a href="https://galaxy.do/" target="_blank">Website</a>
+    <ul>
+      <li>Built core contributor apps and the Galaxy Swap platform for token swaps and airdrop waitlist websites.</li>
+      <li>Part of the SNS Project Governance in the <a href="https://forum.dfinity.org/t/introducing-galaxydo/32577" target="_blank">ICP Ecosystem</a>.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/wirapratamaz/IC-NFID" target="_blank">IC-NFID</a>
+    <ul>
+      <li>Contributed to <a href="https://github.com/internet-identity-labs/nfid)" target="_blank">NFID</a>, a system used for user authentication within the ICP ecosystem.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/wirapratamaz/XRC-Canister" target="_blank">XRC-Canister</a>
+    <ul>
+      <li>Integrated Exchange Rate smart contract (canister <a href="https://github.com/dfinity/exchange-rate-canister" target="_blank">XRC-Canister</a>) into Bridge23.</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/bridge-23/IChessAI/tree/chess-engine" target="_blank">IChessAI</a>
+    <ul>
+      <li>Developed the frontend and integrated it with the chess engine to demonstrate fully on-chain LLM capabilities on the ICP.</li>
+      <li>Showcased at <a href="https://forum.dfinity.org/t/ai-player-on-icp-ichess/34839" target="_blank">Forum Dfinity</a> and <a href="https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/74" target="_blank">ICP-Hacker-House Hackaton</a> during Coinfest Asia in Bali.</li>
+      <li>LLM model: LLaMA2 (compressed variant), input format: Forsyth–Edwards Notation (FEN).</li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://github.com/myriadsocial" target="_blank">Myriad</a>
+    <ul>
+      <li>A platform integrating social apps, metaverse, and messaging with additional applications.</li>
+      <li>Contributed as a part-time developer for preparing milestone 3  <a href="https://github.com/myriadsocial/myriad-web/blob/main/docs/milestone-3-documentation.md" target="_blank">Myriad-Grants</a>
+ and implementing features to secure W3F grants.</li>
+    </ul>
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/putuwirapratamaz/" target="_blank">
