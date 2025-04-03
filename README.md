@@ -82,6 +82,12 @@
  and implementing features to secure W3F grants.</li>
     </ul>
   </li>
+  <li>
+  <a href="https://turbin3.com/" target="_blank">Turbin3</a>
+  <ul>
+    <li>Completed Solana blockchain project prerequisites using <a href="https://github.com/wirapratamaz/Turbin3-SolanaRust" target="_blank">Rust</a> and <a href="https://github.com/wirapratamaz/Turbin3-Solana" target="_blank">TypeScript</a>, showcasing wallet creation, SOL transfers, and on-chain program interactions on devnet.</li>
+  </ul>
+</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
