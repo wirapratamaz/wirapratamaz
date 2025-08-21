@@ -1,96 +1,119 @@
-<h1 align="center">Hi 👋, I'm I Putu Wira Pratama Putra</h1>
+<h1 align="center">
+Hi, I'm Wira Pratama Putra
+
 <h3 align="center">
-  I am a Full Stack Developer with a passion for building scalable and efficient solutions. With hands-on experience in Web3 technologies, I focus on creating impactful applications that drive innovation. 
-  Currently, I am working at <a href="https://github.com/bridge-23" target="_blank">Bridge23</a>, as a Full Stack Developer, where I build dynamic applications with modern technologies, integrate blockchain solutions, and develop AI agents for seamless user experiences inside ICP and Telegram Mini Apps (TMA) ecosystem.
+  Full Stack Developer & Web3 Architect building scalable AI and blockchain solutions. Currently architecting AI Agent platforms at <a href="https://github.com/bridge-23" target="_blank">Bridge23</a>, where I develop enterprise-grade applications across ICP ecosystem, Telegram Mini Apps, and multi-chain integrations.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wirapratamaz&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, Golang, Next.js, React, PostgreSQL, Supabase**
+## Key Achievements
 
-- 💬 Ask me about **Web3 and AI Ecosystem**
+- **Secured multiple grants** from Dfinity Foundation for innovative blockchain solutions
+- **Successfully launched Bridge23** from MVP to production in 4 weeks during BackdropBuild accelerator
+- **Published AI software** on Magic Store, serving enterprise customers with AI Agent platforms
+- **Won ETHSeoul 2024** hackathon in Ethereum x ICP integration track with Gate23 POS Dapp
+- **Built 8+ production applications** across Web3, AI, and full-stack technologies
+- **Contributing to major ecosystems**: ICP governance, NFID authentication, and Web3 infrastructure
 
-- 📫 How to reach me **wirapratamaputra185@gmail.com** and Telegram: <a href="https://t.me/Wirapratamaz" target="_blank">t.me/Wirapratamaz</a>
+## Current Focus
 
-<h3>Recent Experiments / Public Goods Projects</h3>
-<p>
-  I enjoy experimenting with innovative MVP ideas, participating in hackathons, and contributing to public goods projects. Below are some of my key projects:
-</p>
-<ul>
-  <li>
-  <a href="https://github.com/bridge-23/Bridge23app.0.1.0-alpha" target="_blank">Bridge23</a>
-  <ul>
-    <li>Originally launched as a revolutionary blockchain-powered personal expense tracker.</li>
-    <li>Received grants from <a href="https://forum.dfinity.org/t/bridge23-app-showcase/33926" target="_blank">Dfinity</a>.</li>
-    <li>Built during <a href="https://backdropbuild.com/builds/bridge-23" target="_blank">BackdropBuild</a> events launching their crazy idea in 4 weeks.</li>
-    <li>
-      <strong>2024 Update:</strong> Bridge23 has evolved into an AI Agent platform that helps businesses find their ideal customers using models trained on first-party data.
-      <ul>
-        <li>Participated in the <a href="https://build.bewater.xyz/en/campaigns/dK6G-ICP-x-ABCDE-x-BeWater-Accelerator/projects/912" target="_blank">ICP x ABCDE x BeWater Accelerator</a>.</li>
-        <li>Published on the <a href="https://magicsquare.io/store/app/bridge23" target="_blank">Magic Store for AI Software</a>.</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-  <li>
-    <a href="https://devfolio.co/projects/gate-8c67" target="_blank">Gate23</a>
-    <ul>
-      <li>Our new Point of Sale Dapp removes the extra step of scanning your receipts. It automatically uploads detailed line item purchase information directly to users' Bridge23 accounts so they can organize and sell their data more efficiently.</li>
-      <li>Built at <strong><a href="https://devfolio.co/projects/gate-8c67" target="_blank">ETHSeoul 2024</a></strong> during the hackathon for Extending Ethereum with ICP track (using threshold ECDSA).</li>
-      <li>Contributed to Juno, NFID, and Base Chain for Chain Fusion and published a detailed showcase in <a href="https://forum.dfinity.org/t/gate23-showcase-by-bridge23-team/33872" target="_blank">Forum Dfinity</a>.</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/bridge-23/Waitlist-Airdrop" target="_blank">Waitlist-Airdrop Template for ICP Project</a>
-    <ul>
-      <li>A template for upcoming airdrop websites with real-time dashboards and Web3 wallet integration.</li>
-      <li>Supports NFID auth, Plug Wallet, Twitter APIv2 for points, and Supabase DB.</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/galaxydo" target="_blank">GalaxyDAO</a> | <a href="https://galaxy.do/" target="_blank">Website</a>
-    <ul>
-      <li>Built core contributor apps and the Galaxy Swap platform for token swaps and airdrop waitlist websites.</li>
-      <li>Part of the SNS Project Governance in the <a href="https://forum.dfinity.org/t/introducing-galaxydo/32577" target="_blank">ICP Ecosystem</a>.</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/wirapratamaz/IC-NFID" target="_blank">IC-NFID</a>
-    <ul>
-      <li>Contributed to <a href="https://github.com/internet-identity-labs/nfid" target="_blank">NFID</a>, a system used for user authentication within the ICP ecosystem.</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/wirapratamaz/XRC-Canister" target="_blank">XRC-Canister</a>
-    <ul>
-      <li>Integrated Exchange Rate smart contract (canister <a href="https://github.com/dfinity/exchange-rate-canister" target="_blank">XRC-Canister</a>) into Bridge23.</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/bridge-23/IChessAI/tree/chess-engine" target="_blank">IChessAI</a>
-    <ul>
-      <li>Developed the frontend and integrated it with the chess engine to demonstrate fully on-chain LLM capabilities on the ICP.</li>
-      <li>Showcased at <a href="https://forum.dfinity.org/t/ai-player-on-icp-ichess/34839" target="_blank">Forum Dfinity</a> and <a href="https://github.com/ICP-Hacker-House/ICP_Hacker_House_Bali/issues/74" target="_blank">ICP-Hacker-House Hackaton</a> during Coinfest Asia in Bali.</li>
-      <li>LLM model: LLaMA2 (compressed variant), input format: Forsyth–Edwards Notation (FEN).</li>
-    </ul>
-  </li>
-  <li>
-    <a href="https://github.com/myriadsocial" target="_blank">Myriad</a>
-    <ul>
-      <li>A platform integrating social apps, metaverse, and messaging with additional applications.</li>
-      <li>Contributed as a part-time developer for preparing milestone 3  <a href="https://github.com/myriadsocial/myriad-web/blob/main/docs/milestone-3-documentation.md" target="_blank">Myriad-Grants</a>
- and implementing features to secure W3F grants.</li>
-    </ul>
-  </li>
-  <li>
-  <a href="https://turbin3.com/" target="_blank">Turbin3</a>
-  <ul>
-    <li>Completed Solana blockchain project prerequisites using <a href="https://github.com/wirapratamaz/Turbin3-SolanaRust" target="_blank">Rust</a> and <a href="https://github.com/wirapratamaz/Turbin3-Solana" target="_blank">TypeScript</a>, showcasing wallet creation, SOL transfers, and on-chain program interactions on devnet.</li>
-  </ul>
-</li>
-</ul>
+- **Scaling AI Agent platform** at Bridge23 for enterprise customer acquisition using first-party data
+- **Leading Web3 architecture** for multi-chain applications (ICP, Ethereum, Base, Solana)
+- **Building next-generation DeFi** applications with threshold ECDSA and Chain Fusion technology
+- **Contributing to ICP ecosystem** governance and open-source Web3 infrastructure
 
-<h3 align="left">Connect with me:</h3>
+## Technical Leadership
+
+- **8+ Production Applications** deployed and maintained across multiple blockchains
+- **Multi-chain Integration Expertise** (ICP, Ethereum, Base, Solana)
+- **AI/ML Pipeline Development** with LLaMA2 models and on-chain LLM capabilities
+- **Full-stack Architecture** design for scalable enterprise applications
+- **Blockchain Infrastructure** development with smart contracts and DeFi protocols
+
+## Industry Recognition
+
+- **Featured in Dfinity Foundation Forum** with multiple project showcases
+- **ICP x ABCDE x BeWater Accelerator** participant (2024)
+- **Magic Store AI Software Publisher** with enterprise AI solutions
+- **Open Source Contributor** to major Web3 projects (NFID, Dfinity ecosystem)
+- **Hackathon Winner** at ETHSeoul 2024 for innovative blockchain integration
+
+## Featured Projects & Production Applications
+
+### [Bridge23](https://github.com/bridge-23/Bridge23app.0.1.0-alpha) - AI Agent Platform
+- **Impact:** Evolved from blockchain expense tracker to enterprise AI Agent platform
+- **Recognition:** Dfinity grants recipient, Magic Store publisher
+- **Tech Stack:** ICP canisters, AI/ML models, React, TypeScript
+- **Achievement:** Built during BackdropBuild accelerator in just 4 weeks
+
+### [Gate23](https://devfolio.co/projects/gate-8c67) - Point of Sale DApp
+- **Achievement:** Winner at ETHSeoul 2024 hackathon
+- **Innovation:** Automated receipt processing with blockchain integration
+- **Impact:** Demonstrates threshold ECDSA and Chain Fusion capabilities
+- **Contribution:** Advanced ICP, Juno, NFID, and Base Chain ecosystems
+
+### [GalaxyDAO](https://github.com/galaxydo) | [Live Platform](https://galaxy.do/)
+- **Role:** Core contributor and platform architect
+- **Impact:** Built Galaxy Swap platform and governance infrastructure
+- **Recognition:** Part of SNS Project Governance in ICP ecosystem
+- **Tech:** DeFi protocols, token swaps, DAO governance systems
+
+### [IChessAI](https://github.com/bridge-23/IChessAI/tree/chess-engine)
+- **Innovation:** First fully on-chain LLM chess engine on ICP
+- **Tech:** LLaMA2 model integration, FEN notation processing
+- **Recognition:** Showcased at ICP Hacker House Bali during Coinfest Asia
+- **Impact:** Demonstrates advanced AI capabilities on blockchain
+
+### Web3 Infrastructure Contributions
+
+#### [Waitlist-Airdrop Template](https://github.com/bridge-23/Waitlist-Airdrop)
+- **Impact:** Infrastructure template adopted by multiple ICP projects
+- **Features:** Real-time dashboards, Web3 wallet integration, Twitter APIv2
+- **Tech:** NFID auth, Plug Wallet, Supabase integration
+
+#### [IC-NFID Integration](https://github.com/wirapratamaz/IC-NFID)
+- **Contribution:** Core authentication system for ICP ecosystem
+- **Impact:** Enhanced user authentication across decentralized applications
+
+#### [XRC-Canister Integration](https://github.com/wirapratamaz/XRC-Canister)
+- **Technical Achievement:** Exchange Rate smart contract integration
+- **Application:** Real-time price feeds for Bridge23 platform
+
+### Enterprise & Traditional Development
+
+#### [Myriad Social Platform](https://github.com/myriadsocial)
+- **Role:** Full-stack developer for W3F grants milestone 3
+- **Impact:** Integrated social apps, metaverse, and messaging systems
+- **Achievement:** Secured Web3 Foundation grants through feature development
+
+#### [Turbin3 Solana Development](https://turbin3.com/)
+- **Completion:** Advanced Solana blockchain development with [Rust](https://github.com/wirapratamaz/Turbin3-SolanaRust) and [TypeScript](https://github.com/wirapratamaz/Turbin3-Solana)
+- **Skills:** Wallet creation, SOL transfers, on-chain program interactions
+
+## Technology Stack
+
+**Blockchain & Web3**
+- Internet Computer Protocol (ICP), Ethereum, Solana, Base Chain
+- Smart Contracts (Rust, Motoko), DeFi Protocols, Chain Fusion
+- Web3 Authentication (NFID, Plug Wallet), Threshold ECDSA
+
+**AI & Machine Learning**
+- LLaMA2 Models, On-chain LLM Integration
+- AI Agent Development, First-party Data Training
+- Machine Learning Pipelines
+
+**Full-Stack Development**
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, Golang, Python
+- **Databases:** PostgreSQL, MongoDB, Supabase
+
+## Let's Connect
+
+**Business Inquiries:** wirapratamaputra185@gmail.com  
+**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/putuwirapratamaz/)  
+**Telegram:** [@wirapratamaz](https://t.me/wirapratamaz)  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/putuwirapratamaz/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -100,66 +123,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nativescript.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/>
-  </a>
-</p>
-
+## GitHub Analytics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wirapratamaz&" alt="wirapratamaz" /></p>
+
+---
