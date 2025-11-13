@@ -53,7 +53,7 @@ Hi, I'm Wira Pratama Putra
 - **Impact:** Demonstrates threshold ECDSA and Chain Fusion capabilities
 - **Contribution:** Advanced ICP, Juno, NFID, and Base Chain ecosystems
 
-### [GalaxyDAO](https://github.com/galaxydo) | [Live Platform](https://galaxy.do/)
+### [GalaxyDAO](https://github.com/galaxydo)
 - **Role:** Core contributor and platform architect
 - **Impact:** Built Galaxy Swap platform and governance infrastructure
 - **Recognition:** Part of SNS Project Governance in ICP ecosystem
