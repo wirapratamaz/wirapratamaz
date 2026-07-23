@@ -20,7 +20,6 @@ Previously at [Bridge23](https://github.com/bridge-23/Bridge23app.0.1.0-alpha) f
 
 ## Selected Projects
 
-- [BitSentry monorepo](https://github.com/bitsentry-ai/bitsentry-monorepo) - Cloud platform and developer tooling.
 - [BitSentry Desktop CE](https://github.com/bitsentry-ai/desktop-ce) - Apache-2.0 community edition.
 - [Bridge23](https://github.com/bridge-23/Bridge23app.0.1.0-alpha) - Full-stack and AI product development.
 - [Gate23](https://devfolio.co/projects/gate-8c67) - ETHSeoul 2024 hackathon winner, preserved as historical work.
