@@ -16,12 +16,12 @@ I am a Founding Engineer at [BitSentry](https://bitsentry.ai/), building operati
 
 ## Background
 
-Previously at [Bridge23](https://github.com/bridge-23/Bridge23app.0.1.0-alpha) from January 2024 to April 2025, I shipped full-stack and AI product features across web, Telegram, and mini-app interfaces using React, Next.js, TypeScript, Rust, Supabase, and AI integrations. I developed LLM and OCR workflows and delivered an accelerator prototype from initial implementation to a demonstrable end-to-end flow in four weeks.
+Previously at Bridge23 from January 2024 to April 2025, I shipped full-stack and AI product features across web, Telegram, and mini-app interfaces using React, Next.js, TypeScript, Rust, Supabase, and AI integrations. I developed LLM and OCR workflows and delivered an accelerator prototype from initial implementation to a demonstrable end-to-end flow in four weeks.
 
 ## Selected Projects
 
 - [BitSentry Desktop CE](https://github.com/bitsentry-ai/desktop-ce) - Apache-2.0 community edition.
-- [Bridge23](https://github.com/bridge-23/Bridge23app.0.1.0-alpha) - Full-stack and AI product development.
+- Bridge23 - Full-stack and AI product development.
 - [Gate23](https://devfolio.co/projects/gate-8c67) - ETHSeoul 2024 hackathon winner, preserved as historical work.
 - [IChessAI](https://github.com/bridge-23/IChessAI/tree/chess-engine) - Earlier LLM and AI engineering experiment.
 
